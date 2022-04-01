@@ -1,0 +1,1 @@
+g++ .\main.cpp .\World.cpp .\Organisms.cpp .\Plant.cpp .\Human.cpp .\Wolf.cpp .\Animal.cpp .\Fox.cpp .\Sheep.cpp .\Antelope.cpp .\Turtle.cpp .\cyberSheep.cpp .\Grass.cpp .\Thistle.cpp .\Guarana.cpp .\Hogweed.cpp .\Belladonna.cpp
